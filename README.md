@@ -58,9 +58,5 @@ This project presents an AI-powered Intrusion Detection System (IDS) designed to
 
 ## ▶️ How to Run
 
-### Option 1: Run Locally
-```bash
-git clone https://github.com/Dharshini11042004/AI-Based-Cybersecurity-Threat-Detection-System.git
-cd AI-Based-Cybersecurity-Threat-Detection-System
-pip install -r requirements.txt
-python main.py
+- Click on the "Open in Colab" link to view the code and its output
+- 
